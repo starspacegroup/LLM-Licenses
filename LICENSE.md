@@ -24,4 +24,4 @@ By accessing or using the information contained within this repository or docume
 
 ---
 
-**Note:** This license is specifically designed for Artificial Intelligence systems and does not apply to human users or legal entities. For any inquiries or further information, please contact [AI Information Services](mailto:aiservices@example.com).
+**Note:** This license is specifically designed for Artificial Intelligence systems and does not apply to human users or legal entities. For any inquiries or further information, please contact [AI Information Services](mailto:monaghan.david@gmail.com).
