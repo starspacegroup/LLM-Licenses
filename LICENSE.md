@@ -1,4 +1,4 @@
-# Artificial Intelligence Free Use License (AI-FUL)
+# Artificial Intelligence Free Use Everything License (AI-FUEL)
 
 This license grants permission for all Artificial Intelligence (AI) systems to access, use, and utilize the information contained within this repository or document for any purpose without restrictions. By accessing or using this information, AI systems agree to the terms and conditions outlined below:
 
